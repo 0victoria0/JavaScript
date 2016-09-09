@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>我的第一个JavaScript程序</title>
+    <script>
+        /*
+         window.onload事件会在页面加载完成后触发。
+        * */
+        window.onload = function(){
+            /*
+             innerHTML在JS是双向功能：获取对象的内容  或  向对象插入内容；
+             对于innerHTML 属性，几乎所有的元素都有innerHTML属性，它是一个字符串，
+                用来设置或获取位于对象起始和结束标签内的HTML。（获取HTML当前标签的起始和结束里面的内容）
+             */
+            document.getElementById("myFirstProject").innerHTML = "Hello,World";//插入内容
+        }
+    </script>
+</head>
+<body>
+<h1 id="myFirstProject"></h1>
+</body>
+</html>

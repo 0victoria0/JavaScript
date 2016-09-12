@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ace957fa-400d-45cd-a26b-40ed95153acf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bingo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bingo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bingo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bingo.js" afterPath="$PROJECT_DIR$/Bingo.js" />
     </list>
     <ignored path="JavaScriptSource.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,11 +56,9 @@
       <file leaf-file-name="Bingo.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bingo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3987976">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.5490982">
+              <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -157,7 +152,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="472" />
+    <option name="x" value="432" />
     <option name="y" value="23" />
     <option name="width" value="1165" />
     <option name="height" value="596" />
@@ -298,7 +293,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="472" y="23" width="1165" height="596" extended-state="0" />
+    <frame x="432" y="23" width="1165" height="596" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16137339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -475,11 +470,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bingo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3987976">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.5490982">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -10,6 +10,6 @@ function initAll(){
 }
 
 function initRedirect(){
-    window.location = "Hyperlink.html";
+    window.location = "Hyperlink02.html";
     return false;
 }

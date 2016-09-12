@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>我的第一个JavaScript程序</title>
-    <script src="script02.js"></script>//放在script01后面会导致script01执行不了.
     <script src="script01.js">
         /*
          window.onload事件会在页面加载完成后触发。
@@ -17,11 +16,20 @@
             document.getElementById("myFirstProject").innerHTML = "Hello,myFirstProject";//插入内容
         }
     </script>
+    <script src="script02.js"></script>
+    <!--
+         这里的script01和script02会执行后面的script,因为window.onload方法后面的会覆盖前面的
+    -->
 </head>
 <body>
     <h1 id="myFirstProject"></h1>
     <h2 class="centered">
-        <a href="Hyperlink.html" id="redirect">Welcome to our site...c'mon in!</a>
+        <a href="Hyperlink01.html" id="redirect">Welcome to our site...c'mon in!</a>
+        <!--
+        在启用JavaScript功能的用户里,超链接的页面为Hyperlink02.html,而不是Hyperlink01,html页面,
+        用户甚至不知道脚本干预了链接的行为.
+        在没有启用Javascript功能的用户里,直接链接到Hyperlink01,html页面.
+        -->
     </h2>
 </body>
 </html>

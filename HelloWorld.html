@@ -1,65 +1,10 @@
-/*
-JavaScript事件(event),用户访问页面时执行的操作.
-    <onabort>用户终止了页面的加载</onabort>
-    <onblur>用户离开了对象</onblur>
-    <onchange>用户修改了对象</onchange>
-    <onclick>用户点击了对象</onclick>
-    <onerror>脚本遇到了一个错误</onerror>
-    <onfocus>用户激活了对象</onfocus>
-    <onload>对象完成加载</onload>
-    <onmouseover>鼠标指针移动到对象上</onmouseover>
-    <onmouseout>鼠标指针离开了对象</onmouseout>
-    <onselect>用户选择了对象的内容</onselect>
-    <onsubmit>用户提交了表单</onsubmit>
-    <onunload>用户离开了页面</onunload>
-*/
-
-/*
-值和变量
-    值类型
-        数字
-        字符串
-        布尔值  true 或 false
-        空值    空且无含义
-        对象    与对象相关联的任何值
-        函数    函数返回的值
-*/
-
-/*
-工程文件分类
-按照这种方式进行分离,站点将包含以下 3 种文本文件。
- HTML:包含页面的内容和结构。
- CSS:控制页面的外观和表现。
- JavaScript:控制页面的行为。
-如果这么做,对站点进行修改就会很容易,甚至修改全站点范围的效果也很容易
-*/
-
-/*
-<div></div><和span></和span>
-    <div>是一个块级(block-level)元素,他与前后元素之间有物理换行</div>
-    <span>不是块级的,他是行内的(inline),用于句子中的一个短语</span>
-*/
-
-/*
-class 和 id
-    类(class)标识出可能会多次使用的元素。
-        .movieTitle {
-            font: bold 14px;
-            color: #000099;
-        }
-    id 标识出的元素对于文档是唯一的。
-        #theaterName {
-            font: bold 28px;
-            color: #FF0000;
-        }
-*/
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>我的第一个JavaScript程序</title>
-    <script>
+    <script src="script02.js"></script>//放在script01后面会导致script01执行不了.
+    <script src="script01.js">
         /*
          window.onload事件会在页面加载完成后触发。
         * */
@@ -69,11 +14,14 @@ class 和 id
              对于innerHTML 属性，几乎所有的元素都有innerHTML属性，它是一个字符串，
                 用来设置或获取位于对象起始和结束标签内的HTML。（获取HTML当前标签的起始和结束里面的内容）
              */
-            document.getElementById("myFirstProject").innerHTML = "Hello,World";//插入内容
+            document.getElementById("myFirstProject").innerHTML = "Hello,myFirstProject";//插入内容
         }
     </script>
 </head>
 <body>
-<h1 id="myFirstProject"></h1>
+    <h1 id="myFirstProject"></h1>
+    <h2 class="centered">
+        <a href="Hyperlink.html" id="redirect">Welcome to our site...c'mon in!</a>
+    </h2>
 </body>
 </html>

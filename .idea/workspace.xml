@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ace957fa-400d-45cd-a26b-40ed95153acf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bingo.css" afterPath="$PROJECT_DIR$/Bingo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bingo.js" afterPath="$PROJECT_DIR$/Bingo.js" />
-    </list>
+    <list default="true" id="ace957fa-400d-45cd-a26b-40ed95153acf" name="Default" comment="" />
     <ignored path="JavaScriptSource.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

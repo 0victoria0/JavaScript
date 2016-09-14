@@ -11,7 +11,7 @@ function rolloverInit(){
         var linkObj = document.links[i];
         if (linkObj.id){
             //获取图片对象
-            var imgObj = document.getElementById(linkObj+"Img");
+            var imgObj = document.getElementById(linkObj.id+"Img");
             if (imgObj){
                 setupRollover(linkObj,imgObj);
             }
@@ -20,7 +20,7 @@ function rolloverInit(){
 }
 
 function setupRollover(thisLink,thisImage){
-    thisLink.imgToChange = thisImage;//给链接对象添加新的属性imgToChange
+    thisLink.imgToChange = thisImage;//给链接对象添加新的属性imgToChange,并且把图片对象赋值给链接对象的新属性
     thisLink.onmouseout = function(){
         this.imgToChange.src = this.outImage.src;
     };

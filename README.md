@@ -8,3 +8,4 @@ BingoCard：进步一了解JavaScript是怎么样工作的，Bingo Card是一个
 ImageProcessing:图像处理
     Rollover:有效的翻转器
     LinkRollover:链接触发翻转器
+    MultipleLinks_SingleRollover:多个链接触发同一个翻转器

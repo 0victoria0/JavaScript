@@ -9,3 +9,4 @@ ImageProcessing:图像处理
     Rollover:有效的翻转器
     LinkRollover:链接触发翻转器
     MultipleLinks_SingleRollover:多个链接触发同一个翻转器
+    RotatingBanner:循环广告

@@ -32,7 +32,7 @@ function setupRollover(thisLink,textImage){
     thisLink.overImage[0] = new Image();
     thisLink.overImage[0].src = "images/"+thisLink.id+"Text.gif";//
 
-    var rolloverObj = document.getElementById(thisLink.id+"Img");
+    var rolloverObj = document.getElementById(thisLink.id+"Img");//链接元素下的图片元素
     if (rolloverObj){
         thisLink.imgToChange[1] = rolloverObj;
 

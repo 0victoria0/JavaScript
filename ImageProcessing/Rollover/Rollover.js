@@ -27,13 +27,13 @@ function setupRollover(thisImage){
     };
 
     thisImage.clickImage = new Image();//鼠标点击时的图像版本
-    thisImage.clickImage.src = "images/"+thisImage.id+"_click.gif";
+    thisImage.clickImage.src = "../images/"+thisImage.id+"_click.gif";
     thisImage.onclick = function(){
         this.src = this.clickImage.src;
     };
 
     thisImage.overImage = new Image();//鼠标在图像上时的图像版本
-    thisImage.overImage.src = "images/"+thisImage.id+"_on.gif";
+    thisImage.overImage.src = "../images/"+thisImage.id+"_on.gif";
     thisImage.onmouseover = function(){
         this.src = this.overImage.src;
     };

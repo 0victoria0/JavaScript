@@ -30,7 +30,7 @@ function setupRollover(thisLink,textImage){
     thisLink.outImage[0].src = textImage.src;
 
     thisLink.overImage[0] = new Image();
-    thisLink.overImage[0].src = "images/"+thisLink.id+"Text.gif";//
+    thisLink.overImage[0].src = "../images/"+thisLink.id+"Text.gif";//
 
     var rolloverObj = document.getElementById(thisLink.id+"Img");//链接元素下的图片元素
     if (rolloverObj){
@@ -40,7 +40,7 @@ function setupRollover(thisLink,textImage){
         thisLink.outImage[1].src = rolloverObj.src;
 
         thisLink.overImage[1] = new Image();
-        thisLink.overImage[1].src = "images/"+thisLink.id+"_on.gif";
+        thisLink.overImage[1].src = "../images/"+thisLink.id+"_on.gif";
     }
 }
 

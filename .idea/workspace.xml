@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ace957fa-400d-45cd-a26b-40ed95153acf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImageProcessing/ImageSlideshow/ImageSlideshow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImageProcessing/ImageSlideshow/ImageSlideshow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImageProcessing/ImageSlideshow/ImageSlideshow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImageProcessing/RandomImage/RandomImage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImageProcessing/RandomImage/RandomImage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImageProcessing/RandomImage/RandomImage.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ImageProcessing/LinkRollover.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ImageProcessing/LinkRollover.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ImageProcessing/LinkRollover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ImageProcessing/Rollover.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ImageProcessing/Rollover.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ImageProcessing/Rollover.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.js" afterPath="$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageProcessing/RotatingBanner/RotatingBanner.html" afterPath="$PROJECT_DIR$/ImageProcessing/RotatingBanner/RotatingBanner.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="JavaScriptSource.iws" />
@@ -25,41 +40,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="ImageSlideshow.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImageProcessing/ImageSlideshow/ImageSlideshow.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46348315">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state vertical-scroll-proportion="-10.583333">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageSlideshow.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImageProcessing/ImageSlideshow/ImageSlideshow.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MultipleLinks_SingleRollover.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.html">
+        <entry file="file://$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover/MultipleLinks_SingleRollover.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.625">
-              <caret line="6" column="45" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="45" />
+            <state vertical-scroll-proportion="-9.333333">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bg.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ImageProcessing/images/bg.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="MultipleLinks_SingleRollover.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover/MultipleLinks_SingleRollover.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MultipleLinks_SingleRollover.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.js">
+      <file leaf-file-name="Rollover.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover/Rollover.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.333333">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rollover.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover/Rollover.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
+              <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,45 +112,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RotatingBanner.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ImageProcessing/RotatingBanner/RotatingBanner.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RotatingBanner.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RotatingBanner.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ImageProcessing/RotatingBanner/RotatingBanner.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6083551">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="helicopter_on.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ImageProcessing/images/helicopter_on.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="helicopterText.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ImageProcessing/images/helicopterText.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultipleLinks_SingleRollover.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.css">
+      <file leaf-file-name="LinkRollover.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImageProcessing/LinkRollover/LinkRollover.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5833335">
-              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            <state vertical-scroll-proportion="-7.5">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkRollover.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImageProcessing/LinkRollover/LinkRollover.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -159,8 +183,20 @@
         <option value="$PROJECT_DIR$/ImageProcessing/images/RotatingBanner/RotatingBanner.js" />
         <option value="$PROJECT_DIR$/ImageProcessing/images/RotatingBanner/RotatingBanner.html" />
         <option value="$PROJECT_DIR$/ImageProcessing/RotatingBanner/RotatingBanner.js" />
-        <option value="$PROJECT_DIR$/ImageProcessing/RotatingBanner/RotatingBanner.html" />
+        <option value="$PROJECT_DIR$/ImageProcessing/ImageSlideshow/ImageSlideshow.css" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/ImageProcessing/ImageSlideshow/ImageSlideshow.html" />
+        <option value="$PROJECT_DIR$/ImageProcessing/ImageSlideshow/ImageSlideshow.js" />
+        <option value="$PROJECT_DIR$/ImageProcessing/RandomImage/RandomImage.css" />
+        <option value="$PROJECT_DIR$/ImageProcessing/RandomImage/RandomImage.html" />
+        <option value="$PROJECT_DIR$/ImageProcessing/RandomImage/RandomImage.js" />
+        <option value="$PROJECT_DIR$/ImageProcessing/LinkRollover/LinkRollover.html" />
+        <option value="$PROJECT_DIR$/ImageProcessing/LinkRollover/LinkRollover.js" />
+        <option value="$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover/MultipleLinks_SingleRollover.html" />
+        <option value="$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover/MultipleLinks_SingleRollover.js" />
+        <option value="$PROJECT_DIR$/ImageProcessing/Rollover/Rollover.html" />
+        <option value="$PROJECT_DIR$/ImageProcessing/Rollover/Rollover.js" />
+        <option value="$PROJECT_DIR$/ImageProcessing/RotatingBanner/RotatingBanner.html" />
       </list>
     </option>
   </component>
@@ -170,8 +206,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="174" />
-    <option name="y" value="198" />
+    <option name="x" value="124" />
+    <option name="y" value="157" />
     <option name="width" value="941" />
     <option name="height" value="501" />
   </component>
@@ -200,7 +236,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -244,30 +279,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ImageProcessing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RotatingBanner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScriptSource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScriptSource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="BingoCard" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -368,7 +386,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="174" y="198" width="941" height="501" extended-state="0" />
+    <frame x="124" y="157" width="941" height="501" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27173913" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -405,74 +423,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/LinkRollover.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/LinkRollover.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/LinkRollover.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -488,59 +438,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/LinkRollover.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/LinkRollover.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/LinkRollover.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ImageProcessing/Next.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -559,52 +460,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ImageProcessing/Next.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -656,45 +515,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/LinkRollover.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/LinkRollover.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ImageProcessing/images/flyer_on.gif">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -703,16 +523,6 @@
     <entry file="file://$PROJECT_DIR$/ImageProcessing/images/flyerText.gif">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/LinkRollover.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ImageProcessing/images/helicopter_on.gif">
@@ -730,32 +540,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5833335">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ImageProcessing/RotatingBanner/RotatingBanner.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -764,10 +548,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing/RotatingBanner/RotatingBanner.js">
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/ImageSlideshow/ImageSlideshow.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/RandomImage/RandomImage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/images/spacer.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/RandomImage/RandomImage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/RandomImage/RandomImage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/LinkRollover/LinkRollover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/LinkRollover/LinkRollover.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/ImageSlideshow/ImageSlideshow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.583333">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/ImageSlideshow/ImageSlideshow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover/MultipleLinks_SingleRollover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.333333">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/MultipleLinks_SingleRollover/MultipleLinks_SingleRollover.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover/Rollover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.333333">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/Rollover/Rollover.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -780,10 +669,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/ImageProcessing/RotatingBanner/RotatingBanner.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46348315">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.6083551">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding />
         </state>
       </provider>

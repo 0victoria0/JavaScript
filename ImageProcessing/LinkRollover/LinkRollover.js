@@ -31,5 +31,5 @@ function setupRollover(thisLink,thisImage){
     thisLink.outImage.src = thisImage.src;
 
     thisLink.overImage = new Image();//给链接对象一个新的属性overImage
-    thisLink.overImage.src = "images/"+thisLink.id+"_on.gif";
+    thisLink.overImage.src = "../images/"+thisLink.id+"_on.gif";
 }

@@ -10,5 +10,5 @@ if (top.location != self.location){
     */
     top.location.replace(self.location);
 }else {
-    alert("浏览器窗口");
+    alert("打开浏览器窗口");
 }

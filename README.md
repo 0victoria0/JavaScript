@@ -11,4 +11,5 @@ ImageProcessing:图像处理
     MultipleLinks_SingleRollover:多个链接触发同一个翻转器
     RotatingBanner:循环广告
     ImageSlideshow:循环式幻灯片
-    chap06:JavaScript基础教程第六章－表单处理
+    
+chap06:JavaScript基础教程第六章－表单处理

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Car Picker</title>
+	<link rel="stylesheet" href="script06.css">
+	<script src="script06.js"></script>	
+</head>
+<body>
+<h2 class="centered">Car Picker</h2>
+<!--表单form用于搜集不同类型的用户输入,注意表单本身并不可见-->
+<!--表单的动作属性action定义了目的文件的文件名.由动作属性定义的这个文件通常会对接收到对输入数据进行相关对处理-->
+<form action="someAction.cgi">
+	<p><label for="emailAddr">Email Address:
+		<input id="emailAddr" type="text" size="30" class="reqd email">
+	</label></p>
+	<p><label for="color">Colors:
+		<select id="color" class="reqd">
+			<option value="" selected>Choose a color</option><!--这行代码中如果value="Black",Black不显示,直接给"".-->
+			<option value="Red">Red</option>
+			<option value="Green">Green</option>
+			<option value="Blue">Blue</option>
+		</select>
+	</label></p>
+	<p>Options:
+		<label for="sunroof"><input type="checkbox" id="sunroof" value="Yes">Sunroof (Two door only)</label>
+		<label for="pWindows"><input type="checkbox" id="pWindows" value="Yes">Power Windows</label>
+	</p>
+	<p><label for="DoorCt">Doors:&nbsp;&nbsp;
+		<input type="radio" id="twoDoor" name="DoorCt" value="twoDoor" class="radio">Two
+		<input type="radio" id="fourDoor" name="DoorCt" value="fourDoor" class="radio">Four
+	</label></p>
+	<p><label for="zip">Enter your Zip code or pick the dealer nearest you:<br>
+		Zip: <input id="zip" type="text" size="5" maxlength="5" class="isZip dealerList">
+		<!--select控件的size属性,在页面上显示的选项数量.如果这个属性设置为1,或者没有提供这个属性,就会显示弹出菜单-->
+		<select id="dealerList" size="4" class="zip">
+			<option value="California--Lemon Grove">California--Lemon Grove</option>
+			<option value="California--Lomita selected">California--Lomita</option>
+			<option value="California--Long Beach">California--Long Beach</option>
+			<option value="California--Los Alamitos">California--Los Alamitos</option>
+			<option value="California--Los Angeles">California--Los Angeles</option>
+		</select>
+	</label></p>
+	<p><input type="submit" value="Submit">&nbsp;<input type="reset"></p>
+</form>
+</body>
+</html>

@@ -13,3 +13,7 @@ ImageProcessing:图像处理
     ImageSlideshow:循环式幻灯片
     
 chap06:JavaScript基础教程第六章－表单处理
+
+chap08:JavaScript基础教程第八章-处理事件
+
+chap10:对象和DOM

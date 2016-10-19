@@ -49,6 +49,7 @@ function replaceNode() {
 	var allGrafs = nodeChgArea.getElementsByTagName("p");
 	var oldGraf = allGrafs.item(grafChoice);
 
+	//替换节点
 	nodeChgArea.replaceChild(newGraf,oldGraf);
 }
 

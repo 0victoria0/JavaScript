@@ -35,6 +35,9 @@ function insertNode() {
 	var allGrafs = nodeChgArea.getElementsByTagName("p");
 	var oldGraf = allGrafs.item(grafChoice);
 
+	//插入到某个标签的前面
+	/*insertBefore()方法插入到某个节点的前面,没有insertAfter()方法,如果希望在页面末尾添加节点
+	需要使用appendChild()方法*/
 	nodeChgArea.insertBefore(newGraf,oldGraf);
 }
 

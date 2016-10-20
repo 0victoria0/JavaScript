@@ -17,3 +17,5 @@ chap06:JavaScript基础教程第六章－表单处理
 chap08:JavaScript基础教程第八章-处理事件
 
 chap10:对象和DOM
+
+chap11:JavaScript的简单应用

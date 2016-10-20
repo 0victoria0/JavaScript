@@ -1,0 +1,43 @@
+body {
+	background-color: #FFF;
+	color: #000;
+}
+
+div {
+	margin-bottom: 10px;
+	width: 20em;
+	background-color: #9CF;
+}
+
+ul.menu {
+	display: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+/*class为menu的列表下每个li(列表项目)的样式*/
+ul.menu li {
+	font: 1em arial, helvetica, sans-serif;
+	padding-left: 10px;
+}
+
+/*同级关系的标签采用同一个样式,之间用","分开,以某一个父级下面的某个子标签有特殊样式,用" "隔开,例如上面的 ul.menu li*/
+
+/*class为menuLink的链接标签中 列表和链接的样式*/
+a.menuLink, li a {
+	text-decoration: none;
+	color: #FF0000;
+}
+
+a.menuLink {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+/*:hover  选择器用于选择鼠标指针浮动在上面的元素*/
+ul.menu li a:hover {
+	background-color: #006;
+	color: #FFF;
+	padding-right: 10px;
+}
